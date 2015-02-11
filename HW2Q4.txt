@@ -1,12 +1,19 @@
 w + x @ y @ z
-w + 
+w + ( x @ ( y @ z ) )
+w ( x ( y z @ ) @ ) +
+w x y z @ @ +
 
 w + x @ y + z
-
+w + ( ( x @ y ) + z )
+w ( ( x y @ ) z + ) +
+w x y @ z + +
 
 w @ x + y + z
-
+( ( w @ x ) + y ) + z
+( ( w x @ ) y + ) z +
+w x @ y + z +
 
 w / x @ y / z
-
-
+( w / ( x @ y ) ) / z
+( w ( x y @ ) / ) z /
+w x y @ / z /
