@@ -1,0 +1,1 @@
+A Pragma is a directive given to the compiler at time of compilation, giving specific instructions, such as ignoring certain warnings or setting a specific compilation language version. Allowing users to specify a pragma introduces the risk of compilation errors in code and compiling non-system-safe code.
